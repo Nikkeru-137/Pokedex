@@ -1,0 +1,1 @@
+Este projeto está sendo realizado com base no vídeo do canal "Manual do Dev" (https://www.youtube.com/c/ManualdoDev), apenas para aprendizado!
